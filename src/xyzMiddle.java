@@ -1,6 +1,7 @@
 public class xyzMiddle {
     public static void main(String[] args) {
 
+        System.out.println(xyzMiddle("AAxyzBB"));
 
 
     }
