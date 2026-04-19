@@ -2,6 +2,7 @@ public class oneTwo {
     public static void main(String[] args) {
 
 
+        System.out.println(oneTwo("tca"));
 
 
     }
