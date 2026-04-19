@@ -18,6 +18,7 @@ public class CountcoExample {
 
         }
 
+        System.out.print(code);
 
     }
 
