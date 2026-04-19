@@ -1,6 +1,7 @@
 public class PlusOut {
     public static void main(String[] args) {
 
+        System.out.println(plusOut("12xy34", "xy"));
 
 
     }
