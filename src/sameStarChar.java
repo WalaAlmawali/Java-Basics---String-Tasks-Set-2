@@ -1,6 +1,7 @@
 public class sameStarChar {
     public static void main(String[] args) {
 
+        System.out.println(sameStarChar("xy*yzz"));
 
 
     }
