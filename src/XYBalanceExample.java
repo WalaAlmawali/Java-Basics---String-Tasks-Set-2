@@ -4,4 +4,9 @@ public class XYBalanceExample {
 
     }
 
+    public static boolean xyBalance(String str) {
+
+
+    }
+
     }
