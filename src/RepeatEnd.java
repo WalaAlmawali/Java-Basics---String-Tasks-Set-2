@@ -5,4 +5,10 @@ public class RepeatEnd {
 
 
     }
+
+    public static String repeatEnd(String str, int n){
+
+
+    }
+
 }
