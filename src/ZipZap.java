@@ -1,6 +1,7 @@
 public class ZipZap {
     public static void main(String[] args) {
 
+        System.out.println(zipZap("zipXzap"));
 
     }
     public static String zipZap(String str) {
