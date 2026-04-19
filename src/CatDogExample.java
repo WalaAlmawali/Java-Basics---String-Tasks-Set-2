@@ -1,6 +1,8 @@
 public class CatDogExample {
     public static void main(String[] args){
 
+        CatDogExample ex1 = new CatDogExample();
+        ex1.catDog("catdog");
 
 
     }
