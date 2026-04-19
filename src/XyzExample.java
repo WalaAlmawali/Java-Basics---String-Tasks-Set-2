@@ -5,4 +5,8 @@ public class XyzExample {
 
     }
 
+    public static boolean xyzThere(String str) {
+
+
+    }
 }
