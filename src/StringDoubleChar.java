@@ -8,6 +8,9 @@ public class StringDoubleChar {
         System.out.print("Enter a sample string: ");
         String text = sc.nextLine();
 
+        String result = "";
+
+
 
 
 
