@@ -4,4 +4,8 @@ public class BobThereExample {
 
 
     }
+    public static boolean bobThere(String str) {
+
+
+    }
     }
