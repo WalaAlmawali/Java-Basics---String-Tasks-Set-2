@@ -1,6 +1,7 @@
 public class BobThereExample {
     public static void main(String[] args) {
 
+        System.out.println(bobThere("abcbob"));     // true
 
 
     }
