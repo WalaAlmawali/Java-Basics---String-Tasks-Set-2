@@ -10,10 +10,11 @@ public class StringDoubleChar {
 
         String result = "";
 
-
-
-
-
+        for (int i = 0; i < text.length(); i++) {
+            char ch = text.charAt(i);
+            result = result + ch + ch;
+        }
+        System.out.print(result);
 
 
     }
