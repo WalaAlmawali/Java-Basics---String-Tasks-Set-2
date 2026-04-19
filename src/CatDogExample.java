@@ -4,5 +4,10 @@ public class CatDogExample {
 
     }
 
+    public  boolean catDog(String str) {
+
+
+
+    }
 
     }
