@@ -6,6 +6,9 @@ public class StringCountHi {
 
         Scanner sc = new Scanner(System.in);
 
+        System.out.print("Enter a sample string: ");
+        String text = sc.nextLine();
+
     }
 
     }
